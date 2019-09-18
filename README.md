@@ -2,4 +2,4 @@ What's up!
 
 Updates made on master on GitHub before rebase
 
-rebase review
+this is a change locally in README which will conflict with a change remotely done
